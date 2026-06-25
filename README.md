@@ -11,7 +11,6 @@
 - 🎓 BCA Graduate from Chandigarh University
 - 🌱 Currently learning Linux Administration, Networking and Cybersecurity
 - 🔒 Interested in Penetration Testing and Security Automation
-- 🇩🇪 Preparing for Master's studies in Germany
 - 📍 Chandigarh, India
 
 ---
