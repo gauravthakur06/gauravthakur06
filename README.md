@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi 👋 I'm Gaurav Thakur
 
-<!--
-**gauravthakur06/gauravthakur06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Computer Applications (BCA) Graduate
 
-Here are some ideas to get you started:
+💻 Passionate about Cybersecurity, Networking, Linux and IT Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🎓 BCA Graduate from Chandigarh University
+- 🌱 Currently learning Linux Administration, Networking and Cybersecurity
+- 🔒 Interested in Penetration Testing and Security Automation
+- 🇩🇪 Preparing for Master's studies in Germany
+- 📍 Chandigarh, India
+
+---
+
+## Technical Skills
+
+### Operating Systems
+- Windows
+- Ubuntu
+- Kali Linux
+
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- Network Troubleshooting
+
+### Cybersecurity
+- Vulnerability Assessment
+- Penetration Testing
+- Linux Security
+- Security Automation
+
+### Programming
+
+- Python
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+---
+
+## Featured Projects
+
+### NGPTF – Automated Penetration Testing Framework
+
+An automated penetration testing framework developed as a BCA major project.
+
+Technologies:
+
+- Python
+- Linux
+- Networking
+- Security Automation
+
+---
+
+### Online Quiz Application
+
+A responsive web application developed using HTML, CSS and JavaScript.
+
+---
+
+## Connect With Me
+
+📧 Email: gauravthakurhp06@gmail.com
+
+🌐 GitHub: https://github.com/gauravthakur06
