@@ -61,9 +61,9 @@ Technologies:
 
 ---
 
-### Online Quiz Application
+### chargeflow-ev-management
 
-A responsive web application developed using HTML, CSS and JavaScript.
+A responsive web application developed using React and JavaScript.
 
 ---
 
